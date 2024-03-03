@@ -1,0 +1,44 @@
+[
+	{
+		"name":"移动堡垒"
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "防线-C",
+		
+		"movement":1,
+		"strength":75,
+		"cost":400,
+		
+		"range":2,
+		"rangedStrength":60,
+		
+		
+		"uniques":[
+			"Can pass through impassable tiles",
+			"Limited to [1] per Civilization",
+			"[2] Sight",
+			"Must set up to ranged attack",
+			"Can carry [1] [EMP] units",
+			],
+		"attackSound":"arrow",
+	}
+	
+	{
+		"name":"EMP"
+		"unitType": "Fighter",
+		"uniqueTo": "防线-C",
+		
+		"movement":30,
+		"strength":45,
+		"cost":375,
+		
+		"range":5,
+		"rangedStrength":20,
+		
+		
+		"uniques":[
+			"[3] Sight",
+			"[+20]% Strength <vs [Land]>",
+			],
+		"attackSound":"arrow",
+	},
+]
