@@ -1,0 +1,30 @@
+[
+	{
+		"name":"防线-C",
+		"leaderName":"冉小庚",
+		"preferredVictoryType":"Scientific",
+		"adjective":["最后的堡垒"],
+		
+		"startIntroPart1":"由冉小庚组建的一支防卫队。",
+		"startIntroPart2":"拥有强大的火力与缓慢移动的重型装甲武器",
+		
+		"declaringWar":"嗯~~我们要进行无耻的侵略战争了。",
+		"attacked":"什嘛！宣战，你好坏~呜呜~~",
+		"defeated":"不响丸了，呜呜~~你欺负我！",
+		"introduction":"你好，我叫冉小庚，很高兴认识你！",	
+
+		"neutralHello":"你好，朋友。",
+		"hateHello":"不响栗里，里个坏棱。",
+		"tradeRequest":"朋友来场交易吗？",
+		
+		"outerColor":[30,200,33],
+		"innerColor":[50,150,50],
+		
+		"uniqueName":"最后堡垒",
+		"favouredReligion":"p",
+		"uniqueText":"拥有强大的火力与缓慢移动的重型装甲武器",
+		"uniques":["[Land] units gain the [坚固] promotion",
+			],
+		"cities":["无名"],
+	}
+]
